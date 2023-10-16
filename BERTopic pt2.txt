@@ -1,0 +1,1 @@
+Para um avanço no estudo do BERTopic, focando nos aspectos mais eficientes para a análise dos tópicos, fiz outro notebook, que porém, não é aceito no github pelo tamanho do arquivo. Aqui está o link do colab: https://colab.research.google.com/drive/1fUzSdJQ5NzHL_DqJnLbAl3UM7TvD33ik?usp=sharing
